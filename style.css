@@ -298,7 +298,7 @@ nav #university-logo a .logo {
 #staff::before{
   content: '';
   position: absolute;
-  background-image: url(/images/land1.jpg);
+  background-image: url("images/land1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
